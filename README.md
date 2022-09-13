@@ -1,3 +1,15 @@
+# I forgot to use version control when writing the app
+
+So basically, the foundation for the whole app is in the first commit... But I do have more planned for this project!
+The next thing I have to add is that I need to account for the time things are due when sorting through all the tasks.
+Additionally, I plan on taking this foundation, learning React Native, and converting it into a mobile app.
+
+# What can this app do?
+
+Track what you need to get done. Initially, there is a list of 8 example tasks that show off the different color tags and
+can show how the sorting feature works. Yes, I am aware that it does not account for the time at which a task is due, that is
+coming in the next commit. Users can add tasks, sort them by date or by tag (which also sorts the tasks by date for each tag), and they can mark the tasks as complete which will remove them from the to do list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
