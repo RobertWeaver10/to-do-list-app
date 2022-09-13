@@ -1,0 +1,20 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(109, 107, 107, 0.25);
+  padding: 0.5rem;
+  margin: 1rem 0;
+  border-radius: 12px;
+}
+
+.task-text {
+  color: #2a2a2a;
+}
+
+.task-button {
+  margin-right: 2.5rem;
+  border-radius: 10px;
+  background-color: #2a2a2a;
+  color: white;
+}
